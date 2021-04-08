@@ -1,5 +1,6 @@
 # Monitoraggio Piano Triennale AgID
-docker-compose -d
+
+docker-compose up -d
 
 http://moniotraggiopianotriennale.italia.it/login-monitoraggio/
 
