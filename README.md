@@ -2,7 +2,8 @@
 
 ```
 docker-compose up -d
-./volume_restore.sh wordpress_db_1
+chmod +x volume_restore.sh
+./volume_restore.sh monitoraggiopianotriennale_db_1
 ```
 
 ## Accedere su
